@@ -1,2 +1,2 @@
 # ignite-feed
- Ignite React Fundamentals Project  => Ignite Feed
+ Ignite ReactJS [React Fundamentals Project]  => Ignite Feed
